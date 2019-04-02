@@ -23,13 +23,13 @@
 * [Ordering CSS Properties by Type](https://terry-su.github.io/ordering-css-properties-by-type)
 ### JavaScript
 * [A Deep Dive into Event Capture and Bubbling](https://terry-su.github.io/a-deep-dive-into-event-capture-and-bubbling)
-* [Understand and Make the Debounce](https://terry-su.github.io/debounce)
 * [Gist-ES6 Promise](https://terry-su.github.io/gist-es6-promise)
 * [Gist-ES6-Fetch-Usage](https://terry-su.github.io/gist-es6-fetch-usage)
 * [Gist-ES6-Iterator](https://terry-su.github.io/gist-es6-iterator)
 * [Gist-ES6-Proxy](https://terry-su.github.io/gist-es6-proxy)
 * [Master JavaScript Implicit Type Conversion](https://terry-su.github.io/master-javascript-implicit-type-conversion)
-* [Understand and Make the Throttle](https://terry-su.github.io/throttle)
+* [Understand and Make the Debounce](https://terry-su.github.io/understand-and-make-the-debounce)
+* [Understand and Make the Throttle](https://terry-su.github.io/understand-and-make-the-throttle)
 ### React
 * [Uncover the mystery of redux, react-redux](https://terry-su.github.io/reveal-redux-react-redux-mask)
 ## Project
