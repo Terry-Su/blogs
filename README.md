@@ -5,8 +5,8 @@
 * 2019/02/12 &nbsp; [Common Flex Use Cases](https://terry-su.github.io/common-flex-use-cases)
 * 2019/01/17 &nbsp; [Vivid Metaphor of Data Structures](https://terry-su.github.io/vivid-metaphor-of-data-structures)
 * 2019/01/16 &nbsp; [The Reason of Writing Blog](https://terry-su.github.io/the-reason-of-writing-blog)
-* 2019/01/16 &nbsp; [Gist-ES6-Proxy](https://terry-su.github.io/gist-es6-proxy)
 * 2019/01/15 &nbsp; [Demonstrate Sorting Algorithms Using Animated Demos](https://terry-su.github.io/demonstrate-sorting-algorithms-using-animated-demos)
+* 2018/12/18 &nbsp; [Uncover the mystery of redux, react-redux](https://terry-su.github.io/reveal-redux-react-redux-mask)
 # Life
 * [The Reason of Writing Blog](https://terry-su.github.io/the-reason-of-writing-blog)
 # Technology
