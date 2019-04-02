@@ -4,11 +4,11 @@
 # Latest 5 Blogs:
 * 2019/02/12 &nbsp; [Common Flex Use Cases](https://terry-su.github.io/common-flex-use-cases)
 * 2019/01/17 &nbsp; [Vivid Metaphor of Data Structures](https://terry-su.github.io/vivid-metaphor-of-data-structures)
-* 2019/01/16 &nbsp; [The Reason Why I Write Blog](https://terry-su.github.io/the-reason-why-i-write-blog)
+* 2019/01/16 &nbsp; [The Reason of Writing Blog](https://terry-su.github.io/the-reason-of-writing-blog)
 * 2019/01/16 &nbsp; [Gist-ES6-Proxy](https://terry-su.github.io/gist-es6-proxy)
 * 2019/01/15 &nbsp; [Demonstrate Sorting Algorithms Using Animated Demos](https://terry-su.github.io/demonstrate-sorting-algorithms-using-animated-demos)
 # Life
-* [The Reason Why I Write Blog](https://terry-su.github.io/the-reason-why-i-write-blog)
+* [The Reason of Writing Blog](https://terry-su.github.io/the-reason-of-writing-blog)
 # Technology
 ## Algorithm
 * [Demonstrate Sorting Algorithms Using Animated Demos](https://terry-su.github.io/demonstrate-sorting-algorithms-using-animated-demos)
@@ -34,5 +34,3 @@
 * [Uncover the mystery of redux, react-redux](https://terry-su.github.io/reveal-redux-react-redux-mask)
 ## Project
 * [HTML,CSS,JS Plus Github Equals Your Own CodePen](https://terry-su.github.io/html,css,js-plus-github-equals-your-own-codepen)
-## Tool
-* [不再手写import - VSCode自动引入Vue组件和Js模块](https://terry-su.github.io/vscode-auto-import-vue-components-and-js-modules)
