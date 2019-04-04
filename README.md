@@ -1,6 +1,7 @@
 [中文版点击这里](https://github.com/Terry-Su/blogs-cn)
 # How to Subscribe? 
  Click the "Watch" button on the top-right, then just choose "Releases only"(Github will send you a email as notification if a new blog is published).
+![](https://user-images.githubusercontent.com/23733477/55521767-b6a6d680-56b4-11e9-9ddf-87b7e2888153.gif)
 # Latest 5 Blogs:
 * 2019/02/12 &nbsp; [Common Flex Use Cases](https://terry-su.github.io/common-flex-use-cases)
 * 2019/01/17 &nbsp; [Vivid Metaphor of Data Structures](https://terry-su.github.io/vivid-metaphor-of-data-structures)
