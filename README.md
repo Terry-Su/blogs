@@ -4,11 +4,11 @@
     
 ![](https://user-images.githubusercontent.com/23733477/55521767-b6a6d680-56b4-11e9-9ddf-87b7e2888153.gif)
 # Latest 5 Blogs:
+* 2019/04/23 &nbsp; [Write a Modal or Dialog Using React](https://terry-su.github.io/write-a-modal-or-dialog-using-react)
 * 2019/02/12 &nbsp; [Common Flex Use Cases](https://terry-su.github.io/common-flex-use-cases)
 * 2019/01/17 &nbsp; [Vivid Metaphor of Data Structures](https://terry-su.github.io/vivid-metaphor-of-data-structures)
 * 2019/01/16 &nbsp; [The Reason of Writing Blog](https://terry-su.github.io/the-reason-of-writing-blog)
 * 2019/01/15 &nbsp; [Demonstrate Sorting Algorithms Using Animated Demos](https://terry-su.github.io/demonstrate-sorting-algorithms-using-animated-demos)
-* 2018/12/18 &nbsp; [Uncover the mystery of redux, react-redux](https://terry-su.github.io/reveal-redux-react-redux-mask)
 # Life
 * [The Reason of Writing Blog](https://terry-su.github.io/the-reason-of-writing-blog)
 # Technology
@@ -34,5 +34,6 @@
 * [Understand and Make the Throttle](https://terry-su.github.io/understand-and-make-the-throttle)
 ### React
 * [Uncover the mystery of redux, react-redux](https://terry-su.github.io/reveal-redux-react-redux-mask)
+* [Write a Modal or Dialog Using React](https://terry-su.github.io/write-a-modal-or-dialog-using-react)
 ## Project
 * [HTML,CSS,JS Plus Github Equals Your Own CodePen](https://terry-su.github.io/html,css,js-plus-github-equals-your-own-codepen)
